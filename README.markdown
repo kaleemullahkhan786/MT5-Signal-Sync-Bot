@@ -21,7 +21,7 @@ I'm a passionate developer with expertise in creating custom trading solutions. 
 
 ---
 
-##Watch Demo
+## Watch Demo
 
 [![Watch Demo](https://raw.githubusercontent.com/kaleemullahkhan786/MT5-Signal-Sync-Bot/main/Trading%20Bot.mp4)
 
