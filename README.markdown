@@ -21,12 +21,6 @@ I'm a passionate developer with expertise in creating custom trading solutions. 
 
 ---
 
-## 🎥 Demo & Proof of Concept
-
-Check out my demo video to see the bot in action! I’ve tested it with live signals to ensure reliability and speed. Ready to see it work for you? Let’s connect!
-
----
-
 ## 🚀 How It Works – Simple & Powerful
 
 1. **Signal Detection**: The bot listens to your private Telegram channel (e.g., "Gold buy now 2350.0 - 2345.0", "SL: 2340", "TP: 2355").
