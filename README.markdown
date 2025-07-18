@@ -71,7 +71,7 @@ No coding skills? No problem! I’ll guide you every step of the way.
   {
     "telegram_api_id": "YOUR_API_ID",
     "telegram_api_hash": "YOUR_API_HASH",
-    "telegram_phone": "+923001234567",
+    "telegram_phone": "your_account_number",
     "telegram_channel_id": "@YourSignalChannel",
     "logging_bot_token": "YOUR_BOT_TOKEN",
     "logging_chat_id": "YOUR_CHAT_ID",
