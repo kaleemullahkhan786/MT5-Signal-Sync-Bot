@@ -21,6 +21,11 @@ I'm a passionate developer with expertise in creating custom trading solutions. 
 
 ---
 
+###Watch Demo
+[![Watch Demo](https://raw.githubusercontent.com/kaleemullahkhan786/MT5-Signal-Sync-Bot/main/Trading%20Bot.mp4](https://streamable.com/wx70xq)
+
+---
+
 ## 🚀 How It Works – Simple & Powerful
 
 1. **Signal Detection**: The bot listens to your private Telegram channel (e.g., "Gold buy now 2350.0 - 2345.0", "SL: 2340", "TP: 2355").
