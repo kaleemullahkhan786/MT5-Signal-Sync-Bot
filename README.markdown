@@ -144,7 +144,7 @@ This bot is perfect for trading gold (XAUUSD) or other instruments you specify. 
 
 ### How to Order
 
-- **Contact Me**: Reach out via Fiverr or email: your.email@example.com.
+- **Contact Me**: Reach out via Fiverr or email: kaleemullahchanna786@gmail.com.
 - **Custom Quote**: I’ll provide a personalized plan based on your requirements.
 - **Delivery**: Expect a fully functional bot in 4-7 days, with a demo and support included.
 
